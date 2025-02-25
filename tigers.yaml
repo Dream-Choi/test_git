@@ -1,8 +1,12 @@
 team: Tigers
 
-manager: BeomHo
+manager: Lee
 
+<<<<<<< HEAD
 coach: HeeSeop
+=======
+coach: Lee
+>>>>>>> tiger-branch
 
 members:
 - DoYeong
