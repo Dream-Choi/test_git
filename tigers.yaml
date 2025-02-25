@@ -3,10 +3,14 @@ team: Tigers
 manager: Lee
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 coach: HeeSeop
 =======
 coach: Lee
 >>>>>>> tiger-branch
+=======
+coach: Lee
+>>>>>>> dfd5935 (update files tigers)
 
 members:
 - DoYeong
